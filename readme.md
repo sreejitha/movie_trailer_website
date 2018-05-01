@@ -19,8 +19,8 @@ python entertainment_center.py
 
 2. Click on any of the movie posters to view the trailer
 
-### Notes
+## Notes
 
    Ran pylint across all the python files
-   -> Pylint warned for a few lines being too big. However they are links and cannot be formatted into multiple lines
-   -> It also warned for too few public methods. Have created all the methods needed in media.py
+   1. Pylint warned for a few lines being too big. However they are links and cannot be formatted into multiple lines
+   2. It also warned for too few public methods. Have created all the methods needed in media.py
