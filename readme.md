@@ -4,7 +4,7 @@
 2> Create an account on github and download github client
 
 
-##Downloading Code
+## Downloading Code
 
 1> Clone this repository using the github link above
 
