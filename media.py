@@ -1,6 +1,7 @@
 """This module is to store favorite movies and play their trailers when selected"""
 import webbrowser
 
+
 class Movie(object):
     """The class is used to initialize the movie object with all its properties including
     movie title, trailer, storyline and poster image. It also has a method to open up a browser to
